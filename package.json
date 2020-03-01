@@ -4,7 +4,7 @@
   "description": "small testcafe e2e test flow",
   "main": "index.js",
   "scripts": {
-    "test": "gherkin-testcafe chrome src/step_definitions/*.js src/features/*.feature "
+    "test": "gherkin-testcafe chrome src/step_definitions/*.ts src/features/*.feature "
   },
   "keywords": [
     "TestCafe",
