@@ -1,0 +1,21 @@
+{
+  "name": "testcafe-project",
+  "version": "1.0.0",
+  "description": "small testcafe e2e test flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "gherkin-testcafe chrome src/step_definitions/*.js src/features/*.feature "
+  },
+  "keywords": [
+    "TestCafe",
+    "Testing",
+    "Automation"
+  ],
+  "author": "Evgenia Chatzi",
+  "license": "ISC",
+  "dependencies": {
+    "cucumber": "^6.0.5",
+    "gherkin-testcafe": "^2.5.0",
+    "testcafe": "^1.8.2"
+  }
+}
