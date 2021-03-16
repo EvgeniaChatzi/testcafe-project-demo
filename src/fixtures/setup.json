@@ -1,0 +1,12 @@
+{
+    "baseUrl": "https://otinanai.com",
+    "username": "otinanai",
+    "password": "otinanai",
+    "browsers": [
+        "chrome:headless"
+    ],
+    "assertionTimeout": 15000,
+    "concurrency": 1,
+    "quarantineMode": false,
+    "reporters": []
+}
