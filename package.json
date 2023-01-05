@@ -16,6 +16,6 @@
   "dependencies": {
     "cucumber": "^6.0.5",
     "gherkin-testcafe": "^2.5.0",
-    "testcafe": "^1.8.2"
+    "testcafe": "^1.20.1"
   }
 }
